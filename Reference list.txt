@@ -1,0 +1,17 @@
+https://www.geeksforgeeks.org/convert-the-column-type-from-string-to-datetime-format-in-pandas-dataframe/
+https://www.nhc.noaa.gov/gccalc.shtml
+https://sparkbyexamples.com/pandas/pandas-convert-multiple-columns-to-datetime-type/#:~:text=You%20can%20use%20the%20DataFrame,and%20column%20of%20the%20DataFrame.
+https://www.kaggle.com/code/speedoheck/calculate-distance-with-geo-coordinates
+https://datatofish.com/rows-with-nan-pandas-dataframe/
+https://medium.com/@sambozek/ipython-er-jupyter-table-of-contents-69bb72cf39d3
+https://www.skytowner.com/explore/counting_the_number_of_negative_values_in_pandas_dataframe
+https://stackoverflow.com/questions/24214941/python-pandas-dataframe-filter-negative-values
+https://stackoverflow.com
+https://towardsdatascience.com/
+https://www.geeksforgeeks.org/
+https://www.w3resource.com/
+https://towardsdatascience.com/how-to-do-a-custom-sort-on-pandas-dataframe-ac18e7ea5320
+https://cduvallet.github.io/posts/2018/11/facetgrid-ylabel-access
+https://ajaytech.co/facet-grid/
+https://www.nickylovesdata.com/blog/adding-titles-and-labels-part-2
+https://seaborn.pydata.org/generated/seaborn.FacetGrid.html
